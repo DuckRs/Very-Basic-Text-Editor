@@ -1,0 +1,10 @@
+C:\Users\Supernoob\source\repos\RichTextEditor\RichTextEditor\obj\Debug\RichTextEditor.csproj.AssemblyReference.cache
+C:\Users\Supernoob\source\repos\RichTextEditor\RichTextEditor\obj\Debug\RichTextEditor.Form1.resources
+C:\Users\Supernoob\source\repos\RichTextEditor\RichTextEditor\obj\Debug\RichTextEditor.Properties.Resources.resources
+C:\Users\Supernoob\source\repos\RichTextEditor\RichTextEditor\obj\Debug\RichTextEditor.csproj.GenerateResource.cache
+C:\Users\Supernoob\source\repos\RichTextEditor\RichTextEditor\obj\Debug\RichTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Supernoob\source\repos\RichTextEditor\RichTextEditor\bin\Debug\RichTextEditor.exe.config
+C:\Users\Supernoob\source\repos\RichTextEditor\RichTextEditor\bin\Debug\RichTextEditor.exe
+C:\Users\Supernoob\source\repos\RichTextEditor\RichTextEditor\bin\Debug\RichTextEditor.pdb
+C:\Users\Supernoob\source\repos\RichTextEditor\RichTextEditor\obj\Debug\RichTextEditor.exe
+C:\Users\Supernoob\source\repos\RichTextEditor\RichTextEditor\obj\Debug\RichTextEditor.pdb
